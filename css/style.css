@@ -1,0 +1,122 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    margin-top: 050px;
+    font-size: 6rem;
+    font-family: 'Sacramento', cursive;
+    color: #005757;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #097e7e;
+    font-weight: normal;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+hr {
+    border: dotted rgb(138, 207, 207) 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+img {
+   
+}
+.arjun {
+    border-radius: 150px;
+    height: 300px;
+    margin-top: 100px;
+    
+}
+.top-container {
+    background-color: #46aa98;
+    position: relative;
+    padding-top: 100px;
+}
+.icons1 {
+    float: left;
+    width: 20%;
+    margin-right: 30px;
+    
+}
+.icons2 {
+    float: right;
+    width: 20%;
+    margin-left: 30px;
+    
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.left-allign {
+    line-height: 2;
+    
+}
+.middle-container {
+    
+    
+}
+.bottom-container {
+  background-color: #46aa98;
+  padding: 50px 0 20px;
+  margin: 60px 0 0 0;
+} 
+.bottom-cloud {
+    position: absolute;
+    left: 15rem;
+    bottom: 300px;
+}
+.mountain {
+    
+}
+.upper-cloud {
+    position: absolute;
+    top: 50px;
+    right: 15rem;
+}
+.skill-row {
+
+}
+.width {
+    width: 30%;
+    margin: 0 auto 0 auto;
+    line-height: 2;
+}
+.width1 {
+    width: 50%;
+    margin: 0 auto 0 auto;
+    line-height: 3;
+}
+.weight {
+    font-weight: bolder;
+}
+#margin {
+    margin: 0 auto 50px auto;
+}
+.footer-link {
+    color: #005757;
+    margin: 0 10px 0 10px;
+    font-weight: bolder;
+}
+.copyright {
+    color: #097e7e;
+    font-size: 1rem;
+    margin-top: 30px;
+}
+.btn {
+    color: white;
+    
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, #11cdd4, #005757);
+}
